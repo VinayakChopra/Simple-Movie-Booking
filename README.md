@@ -3,5 +3,4 @@ Followed along Brad Traversy's video to create this nice movie booking sort of i
 <img src="https://github.com/VinayakChopra/Simple-Movie-Booking/blob/main/Screenshot%20(443).png"
      alt="Screenshot"
      style="float: left; margin-right: 10px; height: 400px; width: 300px;" />
-##features
- It allows user to select movie seats and movie name and calculates the price of the tickets.
+It allows user to select movie seats and movie name and calculates the price of the tickets.
